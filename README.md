@@ -6,6 +6,6 @@ License: Public Domain
 
 Authors: FG418. Based on XertroV Horn Timeout Plugin (See below)
 
-Code/issues: [https://github.com/XertroV/tm-horn-timeout](https://github.com/XertroV/tm-horn-timeout)
+Code/issues: [https://github.com/FranK45/tm-disable-horn](https://github.com/FranK45/tm-disable-horn)
 
-GL HF
+GLHF
